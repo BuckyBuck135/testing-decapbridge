@@ -2,8 +2,8 @@
 title: Writen in deployed Decap dashboard
 description: Writen in deployed Decap dashboard
 author: Geoffrey
-date: 2025-05-16T11:43:00.000Z
-image: src/assets/images/blog/chatgpt-image-2-mai-2025-21_48_25.png
+date: 2025-05-17T15:08:00.000Z
+image: src/assets/images/blog/233shots_so.png
 imageAlt: Writen in deployed Decap dashboard
 tags:
   - post
